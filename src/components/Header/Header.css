@@ -1,0 +1,13 @@
+.navbar {
+    background: yellow;
+    min-height: 20px;
+    position: fixed;
+    width: 100%;
+    color: black;
+    font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+    white-space: nowrap;
+}
+
+
+
+
